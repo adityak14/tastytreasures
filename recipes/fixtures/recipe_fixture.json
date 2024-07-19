@@ -1,0 +1,152 @@
+[
+    {
+        "model": "recipes.recipe",
+        "pk": 1,
+        "fields": {
+            "title": "Spaghetti Carbonara",
+            "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg?quality=90&resize=440,400",
+            "ingredients": "Spaghetti, Eggs, Cheese, Pancetta, Pepper"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 2,
+        "fields": {
+            "title": "Chicken Curry",
+            "description": "A flavorful curry made with tender chicken pieces simmered in a spicy sauce.",
+            "image": "https://www.foodandwine.com/thmb/8YAIANQTZnGpVWj2XgY0dYH1V4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
+            "ingredients": "Chicken, Curry Powder, Coconut Milk, Onion, Garlic, Ginger"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 3,
+        "fields": {
+            "title": "Beef Tacos",
+            "description": "Mexican dish made with seasoned beef, fresh vegetables, and soft tortillas.",
+            "image": "https://loveandgoodstuff.com/wp-content/uploads/2020/08/classic-ground-beef-tacos-1200x1200.jpg",
+            "ingredients": "Beef, Tortillas, Lettuce, Tomato, Cheese, Sour Cream"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 4,
+        "fields": {
+            "title": "Vegetable Stir Fry",
+            "description": "A healthy mix of vegetables stir-fried in a savory sauce.",
+            "image": "https://kristineskitchenblog.com/wp-content/uploads/2024/01/vegetable-stir-fry-22-3.jpg",
+            "ingredients": "Broccoli, Carrot, Bell Pepper, Soy Sauce, Garlic, Ginger"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 5,
+        "fields": {
+            "title": "Pancakes",
+            "description": "Fluffy pancakes served with syrup and butter.",
+            "image": "https://www.allrecipes.com/thmb/WqWggh6NwG-r8PoeA3OfW908FUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_001-1fa26bcdedc345f182537d95b6cf92d8.jpg",
+            "ingredients": "Flour, Milk, Eggs, Sugar, Baking Powder, Butter"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 6,
+        "fields": {
+            "title": "Margherita Pizza",
+            "description": "A simple pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
+            "image": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format",
+            "ingredients": "Pizza Dough, Tomatoes, Mozzarella, Basil, Olive Oil"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 7,
+        "fields": {
+            "title": "Caesar Salad",
+            "description": "A classic salad made with romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+            "image": "https://img.delicious.com.au/pn0DYpOF/del/2022/12/p80-green-bean-and-speck-caesar-salad-180985-1.png",
+            "ingredients": "Romaine Lettuce, Croutons, Parmesan, Caesar Dressing"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 8,
+        "fields": {
+            "title": "Tom Yum Soup",
+            "description": "A spicy Thai soup with shrimp, mushrooms, and lemongrass.",
+            "image": "https://minimalistbaker.com/wp-content/uploads/2019/01/Vegan-Tom-Yum-SQUARE.jpg",
+            "ingredients": "Shrimp, Mushrooms, Lemongrass, Lime, Chili Peppers"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 9,
+        "fields": {
+            "title": "Chocolate Cake",
+            "description": "A rich and moist chocolate cake topped with chocolate ganache.",
+            "image": "https://www.recipetineats.com/tachyon/2018/03/Chocolate-Cake_9-SQ.jpg",
+            "ingredients": "Flour, Cocoa Powder, Sugar, Eggs, Butter, Chocolate"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 10,
+        "fields": {
+            "title": "Greek Salad",
+            "description": "A refreshing salad with cucumbers, tomatoes, olives, feta cheese, and oregano.",
+            "image": "https://www.italianbellavita.com/wp-content/uploads/2022/08/739C7136-CBA2-4DDC-8D56-ECA409F69AB9.jpeg",
+            "ingredients": "Cucumbers, Tomatoes, Olives, Feta Cheese, Oregano"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 11,
+        "fields": {
+            "title": "Pad Thai",
+            "description": "A popular Thai noodle dish with shrimp, tofu, peanuts, and a tangy sauce.",
+            "image": "https://www.foodandwine.com/thmb/9Vb8WuiTba45J_7HEXV6M58bo2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shrimp-Pad-Thai-FT-RECIPE0324-3132ca704bc0457e836127dbda403368.jpg",
+            "ingredients": "Rice Noodles, Shrimp, Tofu, Peanuts, Tamarind Paste, Bean Sprouts"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 12,
+        "fields": {
+            "title": "Guacamole",
+            "description": "A creamy dip made with ripe avocados, lime, cilantro, and onions.",
+            "image": "https://www.giallozafferano.com/images/255-25549/Guacamole_1200x800.jpg",
+            "ingredients": "Avocados, Lime, Cilantro, Onion, Salt"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 13,
+        "fields": {
+            "title": "Lasagna",
+            "description": "A classic Italian dish with layers of pasta, meat sauce, and cheese.",
+            "image": "https://www.eatingwell.com/thmb/EyO_02MMXUfnVpimaGHDgFE5a-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Veggie-Lasagna-beauty-552-b5123cb9307b406ea30ccda5f101d663.jpg",
+            "ingredients": "Lasagna Noodles, Ground Beef, Tomato Sauce, Ricotta, Mozzarella, Parmesan"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 14,
+        "fields": {
+            "title": "Butter Chicken",
+            "description": "A creamy and flavorful Indian curry made with tender chicken pieces.",
+            "image": "https://saltedmint.com/wp-content/uploads/2024/01/Indian-Butter-Chicken-recipe-with-rice-500x375.jpg",
+            "ingredients": "Chicken, Butter, Tomato Sauce, Cream, Spices"
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 15,
+        "fields": {
+            "title": "Cheeseburger",
+            "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, and pickles.",
+            "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-square-FS-42.jpg",
+            "ingredients": "Beef Patty, Cheese, Lettuce, Tomato, Pickles, Burger Bun"
+        }
+    }
+]
