@@ -6,7 +6,8 @@
             "title": "Spaghetti Carbonara",
             "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
             "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg?quality=90&resize=440,400",
-            "ingredients": "Spaghetti, Eggs, Cheese, Pancetta, Pepper"
+            "ingredients": "Spaghetti, Eggs, Cheese, Pancetta, Pepper",
+            "steps": "Boil spaghetti in salted water until al dente. While the spaghetti is cooking, cook pancetta in a large pan until crispy. In a bowl, whisk together eggs and grated cheese. Drain the spaghetti, reserving some of the pasta water. Add the spaghetti to the pan with pancetta, remove from heat. Quickly mix in the egg and cheese mixture, stirring continuously to create a creamy sauce. Add reserved pasta water if needed to achieve desired consistency. Season with freshly ground black pepper and serve immediately."
         }
     },
     {
@@ -16,7 +17,8 @@
             "title": "Chicken Curry",
             "description": "A flavorful curry made with tender chicken pieces simmered in a spicy sauce.",
             "image": "https://www.foodandwine.com/thmb/8YAIANQTZnGpVWj2XgY0dYH1V4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
-            "ingredients": "Chicken, Curry Powder, Coconut Milk, Onion, Garlic, Ginger"
+            "ingredients": "Chicken, Curry Powder, Coconut Milk, Onion, Garlic, Ginger",
+            "steps": "Heat oil in a large pan and sauté chopped onions until golden brown. Add minced garlic and ginger, cook for another minute. Add chicken pieces and cook until browned on all sides. Sprinkle curry powder over the chicken and stir well. Pour in coconut milk, stir to combine. Bring to a simmer and cook for 20-30 minutes until chicken is cooked through and sauce has thickened. Season with salt to taste. Garnish with fresh cilantro and serve with rice or naan."
         }
     },
     {
@@ -26,7 +28,8 @@
             "title": "Beef Tacos",
             "description": "Mexican dish made with seasoned beef, fresh vegetables, and soft tortillas.",
             "image": "https://loveandgoodstuff.com/wp-content/uploads/2020/08/classic-ground-beef-tacos-1200x1200.jpg",
-            "ingredients": "Beef, Tortillas, Lettuce, Tomato, Cheese, Sour Cream"
+            "ingredients": "Beef, Tortillas, Lettuce, Tomato, Cheese, Sour Cream",
+            "steps": "Heat oil in a pan and cook ground beef until browned. Add taco seasoning and water according to package instructions. Simmer until the sauce has thickened and the beef is well-coated. Warm tortillas in a dry pan or microwave. Assemble tacos by adding seasoned beef, shredded lettuce, diced tomatoes, and grated cheese to each tortilla. Top with a dollop of sour cream and serve immediately."
         }
     },
     {
@@ -36,7 +39,8 @@
             "title": "Vegetable Stir Fry",
             "description": "A healthy mix of vegetables stir-fried in a savory sauce.",
             "image": "https://kristineskitchenblog.com/wp-content/uploads/2024/01/vegetable-stir-fry-22-3.jpg",
-            "ingredients": "Broccoli, Carrot, Bell Pepper, Soy Sauce, Garlic, Ginger"
+            "ingredients": "Broccoli, Carrot, Bell Pepper, Soy Sauce, Garlic, Ginger",
+            "steps": "Chop all vegetables into bite-sized pieces. Heat oil in a large pan or wok over high heat. Add minced garlic and ginger, stir-fry for a minute. Add the vegetables and stir-fry for 5-7 minutes until they are tender but still crisp. Pour in soy sauce and stir to coat the vegetables evenly. Cook for another 2-3 minutes until the sauce has reduced slightly. Serve hot over rice or noodles."
         }
     },
     {
@@ -46,7 +50,8 @@
             "title": "Pancakes",
             "description": "Fluffy pancakes served with syrup and butter.",
             "image": "https://www.allrecipes.com/thmb/WqWggh6NwG-r8PoeA3OfW908FUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_001-1fa26bcdedc345f182537d95b6cf92d8.jpg",
-            "ingredients": "Flour, Milk, Eggs, Sugar, Baking Powder, Butter"
+            "ingredients": "Flour, Milk, Eggs, Sugar, Baking Powder, Butter",
+            "steps": "In a bowl, mix together flour, sugar, and baking powder. In another bowl, whisk together milk, eggs, and melted butter. Pour the wet ingredients into the dry ingredients and stir until just combined. Heat a griddle or non-stick pan over medium heat and lightly grease with butter. Pour batter onto the griddle to form pancakes of desired size. Cook until bubbles form on the surface, then flip and cook until golden brown on the other side. Serve warm with syrup and butter."
         }
     },
     {
@@ -56,7 +61,8 @@
             "title": "Margherita Pizza",
             "description": "A simple pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
             "image": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format",
-            "ingredients": "Pizza Dough, Tomatoes, Mozzarella, Basil, Olive Oil"
+            "ingredients": "Pizza Dough, Tomatoes, Mozzarella, Basil, Olive Oil",
+            "steps": "Preheat your oven to the highest temperature setting. Roll out the pizza dough on a floured surface. Transfer the dough to a pizza stone or baking sheet. Spread sliced tomatoes evenly over the dough. Tear fresh mozzarella and scatter it over the tomatoes. Drizzle with olive oil and season with salt. Bake in the oven for 10-12 minutes until the crust is golden and the cheese is bubbly. Remove from oven and top with fresh basil leaves before serving."
         }
     },
     {
@@ -66,7 +72,8 @@
             "title": "Caesar Salad",
             "description": "A classic salad made with romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
             "image": "https://img.delicious.com.au/pn0DYpOF/del/2022/12/p80-green-bean-and-speck-caesar-salad-180985-1.png",
-            "ingredients": "Romaine Lettuce, Croutons, Parmesan, Caesar Dressing"
+            "ingredients": "Romaine Lettuce, Croutons, Parmesan, Caesar Dressing",
+            "steps": "Chop romaine lettuce and place in a large salad bowl. Add croutons and grated parmesan cheese. Drizzle Caesar dressing over the salad and toss to coat. Serve immediately."
         }
     },
     {
@@ -76,7 +83,8 @@
             "title": "Tom Yum Soup",
             "description": "A spicy Thai soup with shrimp, mushrooms, and lemongrass.",
             "image": "https://minimalistbaker.com/wp-content/uploads/2019/01/Vegan-Tom-Yum-SQUARE.jpg",
-            "ingredients": "Shrimp, Mushrooms, Lemongrass, Lime, Chili Peppers"
+            "ingredients": "Shrimp, Mushrooms, Lemongrass, Lime, Chili Peppers",
+            "steps": "In a pot, bring water to a boil. Add bruised lemongrass, lime leaves, and sliced chili peppers. Simmer for 5-10 minutes to infuse the flavors. Add shrimp and sliced mushrooms, cook until shrimp is pink and cooked through. Season with fish sauce and lime juice. Serve hot, garnished with fresh cilantro."
         }
     },
     {
@@ -86,7 +94,8 @@
             "title": "Chocolate Cake",
             "description": "A rich and moist chocolate cake topped with chocolate ganache.",
             "image": "https://www.recipetineats.com/tachyon/2018/03/Chocolate-Cake_9-SQ.jpg",
-            "ingredients": "Flour, Cocoa Powder, Sugar, Eggs, Butter, Chocolate"
+            "ingredients": "Flour, Cocoa Powder, Sugar, Eggs, Butter, Chocolate",
+            "steps": "Preheat oven to 350°F (175°C). Grease and flour a cake pan. In a bowl, mix flour, cocoa powder, and baking powder. In another bowl, beat together sugar and butter until fluffy. Add eggs one at a time, beating well after each addition. Gradually add dry ingredients to the wet mixture, alternating with milk. Pour batter into the prepared pan and bake for 30-35 minutes. Allow the cake to cool completely before frosting with chocolate ganache."
         }
     },
     {
@@ -96,7 +105,8 @@
             "title": "Greek Salad",
             "description": "A refreshing salad with cucumbers, tomatoes, olives, feta cheese, and oregano.",
             "image": "https://www.italianbellavita.com/wp-content/uploads/2022/08/739C7136-CBA2-4DDC-8D56-ECA409F69AB9.jpeg",
-            "ingredients": "Cucumbers, Tomatoes, Olives, Feta Cheese, Oregano"
+            "ingredients": "Cucumbers, Tomatoes, Olives, Feta Cheese, Oregano",
+            "steps": "Chop cucumbers and tomatoes into bite-sized pieces. Combine in a bowl with pitted olives and crumbled feta cheese. Sprinkle with dried oregano and drizzle with olive oil. Toss gently to combine and serve chilled."
         }
     },
     {
@@ -106,7 +116,8 @@
             "title": "Pad Thai",
             "description": "A popular Thai noodle dish with shrimp, tofu, peanuts, and a tangy sauce.",
             "image": "https://www.foodandwine.com/thmb/9Vb8WuiTba45J_7HEXV6M58bo2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shrimp-Pad-Thai-FT-RECIPE0324-3132ca704bc0457e836127dbda403368.jpg",
-            "ingredients": "Rice Noodles, Shrimp, Tofu, Peanuts, Tamarind Paste, Bean Sprouts"
+            "ingredients": "Rice Noodles, Shrimp, Tofu, Peanuts, Tamarind Paste, Bean Sprouts",
+            "steps": "Soak rice noodles in hot water until soft, then drain. In a wok, heat oil and cook shrimp until pink. Add tofu and cook until lightly browned. Push shrimp and tofu to one side of the wok and crack in an egg, scramble until cooked. Add noodles and pad thai sauce (made with tamarind paste, fish sauce, and sugar). Toss everything together until well combined. Serve with crushed peanuts and bean sprouts on top."
         }
     },
     {
@@ -116,7 +127,8 @@
             "title": "Guacamole",
             "description": "A creamy dip made with ripe avocados, lime, cilantro, and onions.",
             "image": "https://www.giallozafferano.com/images/255-25549/Guacamole_1200x800.jpg",
-            "ingredients": "Avocados, Lime, Cilantro, Onion, Salt"
+            "ingredients": "Avocados, Lime, Cilantro, Onion, Salt",
+            "steps": "Cut avocados in half and remove the pit. Scoop out the flesh and place in a bowl. Mash avocados with a fork until smooth. Stir in lime juice, chopped cilantro, and finely diced onion. Season with salt to taste. Serve immediately with tortilla chips."
         }
     },
     {
@@ -126,7 +138,8 @@
             "title": "Lasagna",
             "description": "A classic Italian dish with layers of pasta, meat sauce, and cheese.",
             "image": "https://www.eatingwell.com/thmb/EyO_02MMXUfnVpimaGHDgFE5a-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Veggie-Lasagna-beauty-552-b5123cb9307b406ea30ccda5f101d663.jpg",
-            "ingredients": "Lasagna Noodles, Ground Beef, Tomato Sauce, Ricotta, Mozzarella, Parmesan"
+            "ingredients": "Lasagna Noodles, Ground Beef, Tomato Sauce, Ricotta, Mozzarella, Parmesan",
+            "steps": "Preheat oven to 375°F (190°C). Cook lasagna noodles according to package instructions. In a pan, cook ground beef until browned, then add tomato sauce and simmer. In a baking dish, layer noodles, meat sauce, and ricotta cheese. Repeat layers until all ingredients are used. Top with shredded mozzarella and grated parmesan. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes until cheese is bubbly. Let rest for 10 minutes before serving."
         }
     },
     {
@@ -136,7 +149,8 @@
             "title": "Butter Chicken",
             "description": "A creamy and flavorful Indian curry made with tender chicken pieces.",
             "image": "https://saltedmint.com/wp-content/uploads/2024/01/Indian-Butter-Chicken-recipe-with-rice-500x375.jpg",
-            "ingredients": "Chicken, Butter, Tomato Sauce, Cream, Spices"
+            "ingredients": "Chicken, Butter, Tomato Sauce, Cream, Spices",
+            "steps": "Marinate chicken in yogurt and spices for at least 1 hour. In a pan, melt butter and sauté onions until golden brown. Add marinated chicken and cook until no longer pink. Stir in tomato sauce and cook for 10 minutes. Add cream and simmer until the sauce is thickened. Season with salt and garam masala. Serve hot with rice or naan."
         }
     },
     {
@@ -146,7 +160,8 @@
             "title": "Cheeseburger",
             "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, and pickles.",
             "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-square-FS-42.jpg",
-            "ingredients": "Beef Patty, Cheese, Lettuce, Tomato, Pickles, Burger Bun"
+            "ingredients": "Beef Patty, Cheese, Lettuce, Tomato, Pickles, Burger Bun",
+            "steps": "Season beef patty with salt and pepper. Cook the patty on a grill or skillet until desired doneness. Place a slice of cheese on top of the patty and let it melt. Toast the burger buns on the grill. Assemble the burger with lettuce, tomato slices, pickles, and the cooked patty. Serve hot with your favorite condiments."
         }
     }
 ]
